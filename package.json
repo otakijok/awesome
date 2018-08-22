@@ -1,8 +1,11 @@
 {
-  "scripts": {
-    "hoge": "echo HOGEHOGE"
-  },
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.3.1",
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
   }
 }
